@@ -1,4 +1,7 @@
 # BluetoothMaster
+<div align="center">
+  <img src="assets/logo.svg" alt="BluetoothMaster Logo" width="200">
+</div>
 
 ## About BluetoothMaster
 
